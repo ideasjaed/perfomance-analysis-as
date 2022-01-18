@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+<p align="center">
+    <img alt="AtlantiaSearc" src="" width="60" />
+</p>
+<h1 align="center">
+  General Perfomance Analysis 1.0
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ✏ Resources
 
-## Available Scripts
+Figma Mockup: [Link](https://www.figma.com/file/fMjZ2UNaP6bGeq4FUz9gdS/Prueba-Frontend-AS?node-id=2%3A90)
 
-In the project directory, you can run:
+## 🚀 Quick start
 
-### `npm start`
+1.  **Requirements.**
+    Make sure that you have Node.js v8.15.1 and npm v5 or above installed.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1.  **Start developing.**
+    Navigate into your new site’s directory and start it up.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    ```shell
+    yarn
+    yarn start
+    ```
 
-### `npm test`
+1.  **Preview**
+    Your site is now running at `http://localhost:3000`!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💫 Deploy
 
-### `npm run build`
+1.  **Build**
+    Create a production with the following command.Create a production with
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    ```shell
+    yarn build
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1.  **Preview**
+    Serve the production build locally
+    ```shell
+    yarn serve
+    ```
+1.  **Upload Folder**
+    It should build a directory called `public`, inside that directory is your whole static website.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🧐 What's inside?
 
-### `npm run eject`
+A quick look at the top-level files and directories you'll see in the project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    .
+    ├── node_modules
+    ├── src
+    ├── .gitignore
+    ├── LICENSE
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1.  **`/node_modules`**: This directory contains all of the modules of code that your project depends on (npm packages) are automatically installed.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
-## Learn More
+4.  **`LICENSE`**: This project is licensed under the MIT license.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5.  **`package-lock.json`** (See `package.json` below, first). This is an automatically generated file based on the exact versions of your npm dependencies that were installed for your project. **(You won’t change this file directly).**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+6.  **`package.json`**: A manifest file for Node.js projects, which includes things like metadata (the project’s name, author, etc). This manifest is how npm knows which packages to install for your project.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+7.  **`README.md`**: A text file containing useful reference information about your project.
