@@ -1,0 +1,25 @@
+.containerAnalysis{
+    margin: 20px;
+    .title{
+        font-size:40px;
+        color: $blue-dark;
+        font-family: $font_montserrat;
+        font-weight:600;
+    }
+}
+
+.subtitle{
+    font-size:24px;
+    color: $blue-dark;
+    font-family: $font_montserrat;
+}
+
+.graphPrice{
+    border: 1px solid $gray-100;
+    box-shadow: none !important;
+    border-radius: 0px !important;
+    height:407px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
