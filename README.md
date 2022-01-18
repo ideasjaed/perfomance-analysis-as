@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="AtlantiaSearc" src="" width="60" />
+    <img alt="AtlantiaSearc" src="https://github.com/ideasjaed/perfomance-analysis-as/issues/1#issue-1107029944" width="60" />
 </p>
 <h1 align="center">
   General Perfomance Analysis 1.0
