@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/perfomance-analysis-as/static/css/main.48a7d792.css",
-    "main.js": "/perfomance-analysis-as/static/js/main.48b35aba.js",
+    "main.js": "/perfomance-analysis-as/static/js/main.91c34df7.js",
     "index.html": "/perfomance-analysis-as/index.html",
     "main.48a7d792.css.map": "/perfomance-analysis-as/static/css/main.48a7d792.css.map",
-    "main.48b35aba.js.map": "/perfomance-analysis-as/static/js/main.48b35aba.js.map"
+    "main.91c34df7.js.map": "/perfomance-analysis-as/static/js/main.91c34df7.js.map"
   },
   "entrypoints": [
     "static/css/main.48a7d792.css",
-    "static/js/main.48b35aba.js"
+    "static/js/main.91c34df7.js"
   ]
 }
