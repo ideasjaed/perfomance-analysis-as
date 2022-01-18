@@ -7,7 +7,7 @@ import {
 } from "../../utils/dataPrices";
 
 const ChartPrices = () => {
-  const { loading, error, prices } = usePrice();
+  const { prices } = usePrice();
   const [series, setSeries] = useState([]);
   const [categories, setCategories] = useState([]);
 

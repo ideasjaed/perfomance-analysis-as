@@ -2,7 +2,7 @@ import Chart from "react-apexcharts";
 import usePresenceChart from "../hooks/usePresenceChart";
 
 const ChartPresenceShare = () => {
-  const { loading, error, presencesShare } = usePresenceChart();
+  const { presencesShare } = usePresenceChart();
   const options = {
     labels: presencesShare.map((presence) => presence.name),
     colors: ["#D6215B", "#FF7A00", "#7530B2", "#23B794", "#006FFF"],
